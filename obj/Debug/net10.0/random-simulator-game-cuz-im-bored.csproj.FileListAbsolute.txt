@@ -1,0 +1,15 @@
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.AssemblyInfoInputs.cache
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.AssemblyInfo.cs
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.csproj.CoreCompileInputs.cache
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.sourcelink.json
+/workspaces/random-simulator-game-cuz-im-bored/bin/Debug/net10.0/random-simulator-game-cuz-im-bored
+/workspaces/random-simulator-game-cuz-im-bored/bin/Debug/net10.0/random-simulator-game-cuz-im-bored.deps.json
+/workspaces/random-simulator-game-cuz-im-bored/bin/Debug/net10.0/random-simulator-game-cuz-im-bored.runtimeconfig.json
+/workspaces/random-simulator-game-cuz-im-bored/bin/Debug/net10.0/random-simulator-game-cuz-im-bored.dll
+/workspaces/random-simulator-game-cuz-im-bored/bin/Debug/net10.0/random-simulator-game-cuz-im-bored.pdb
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.dll
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/refint/random-simulator-game-cuz-im-bored.dll
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.pdb
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/random-simulator-game-cuz-im-bored.genruntimeconfig.cache
+/workspaces/random-simulator-game-cuz-im-bored/obj/Debug/net10.0/ref/random-simulator-game-cuz-im-bored.dll
