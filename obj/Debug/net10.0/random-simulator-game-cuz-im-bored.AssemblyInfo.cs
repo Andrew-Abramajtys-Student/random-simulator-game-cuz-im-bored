@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("random-simulator-game-cuz-im-bored")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e36354572d34b2ef6cd313e842965c315de2bc06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c093076319fef2fae084a3f50a2d2f77bd40a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("random-simulator-game-cuz-im-bored")]
 [assembly: System.Reflection.AssemblyTitleAttribute("random-simulator-game-cuz-im-bored")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

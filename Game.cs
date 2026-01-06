@@ -2,8 +2,8 @@ namespace Simulator;
 
 public static class Game
 {
-    public static int money = 0;
-    public static int rating = 0;
+    public static double money = 0;
+    public static double rating = 1;
     public static string player = "";
     public static string response = "";
     public static string lResponse = "";
@@ -54,16 +54,34 @@ public static class Game
     {
         Console.WriteLine("What do you want to do?");
         Thread.Sleep(1000);
-        Console.WriteLine("To view your current player info, say ''Info''");
+        Console.WriteLine("To view your current player info, say \"Info\"");
         Thread.Sleep(1000);
         input();
         if (lResponse == "info")
         {
             PlayerInfo();
         }
+        if (lResponse == "work")
+        {
+            Work();
+        }
     }
 
-    public static void Test()
+    public static void Work()
+    {
+        Console.WriteLine("I dont have a good system for this yet so say 1 to work correct and 2 to work incorrect");
+        input();
+        if (lResponse == "1")
+        {
+            Console.WriteLine("Correct! You have been paid accordingly and your rating has gone up a lil bit")
+        }
+        if (lResponse == "2")
+        {
+
+        }
+    }
+
+    public static void Start()
     {
         GameStart();
         NameInquiry();
