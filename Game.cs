@@ -55,6 +55,7 @@ public static class Game
         Console.WriteLine("What do you want to do?");
         Thread.Sleep(1000);
         Console.WriteLine("To view your current player info, say \"Info\"");
+        Console.WriteLine("To earn money and increase your rating, say \"Work\"");
         Thread.Sleep(1000);
         input();
         if (lResponse == "info")
@@ -73,12 +74,20 @@ public static class Game
         input();
         if (lResponse == "1")
         {
-            Console.WriteLine("Correct! You have been paid accordingly and your rating has gone up a lil bit")
+            Console.WriteLine("Correct! You have been paid accordingly and your rating has gone up a lil bit");
+            money = money + (50 * rating);
+            rating = rating + 0.1;
         }
         if (lResponse == "2")
         {
-
+            Console.WriteLine("Incorrect! You have been underpaid and your rating has gone down (if it even can)");
+            money = money + 10;
+            if (rating > 1)
+            {
+                rating = rating - 0.1;
+            }
         }
+        Menu();
     }
 
     public static void Start()
